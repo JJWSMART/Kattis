@@ -1,4 +1,0 @@
-Kattis Practice Problem
-
-
-
